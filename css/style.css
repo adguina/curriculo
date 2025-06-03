@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0
+}
+
+:root {
+    --corli: #000080;
+    --corh1: #C71585;
+    --corh4: #FF0000;
+    --border: #000000;
+    --backgroundli: #DCDCDC;
+    --backgroundh1: #A9A9A9;
+}
+body{
+ 
+}
+
+.card-content .content p{
+    text-align: justify;
+}
+.navbar{
+    padding: 5%;
+    margin-left: 10%;    
+}
+.card{
+    margin-bottom: 20px;
+}
+img{
+    width: 150px;
+    border-radius: 100%;
+    border: 2px solid #000000;
+
+}
+.dados{
+    margin-left: 5%;
+}
